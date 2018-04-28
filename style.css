@@ -1,5 +1,6 @@
 #header {
 	background-image: url(img/header.jpg);
+	background-size: cover;
 	/* background: green; */
 	float: left;
 	width: 100%;
@@ -16,6 +17,7 @@ body {
 	margin: 0;
 	/* background: linear-gradient(to top, #f1edca, #afa983); */
 	background-image: url(img/land.jpg);
+   	background-size: cover;
 	
 }
 
